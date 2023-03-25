@@ -2,8 +2,8 @@
 
 # Hi! Nice to meet you !! 👋
 <br>
-<b>Welcome to my page!<br>
-I'm `Kiukmaster`!</b>
+Welcome to my page!<br>
+I'm Kiukmaster !
 <br><br><br><br>
 
 ## 💻My tech stack! 💻
