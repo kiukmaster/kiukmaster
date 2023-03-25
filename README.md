@@ -3,7 +3,7 @@
 # Hi! Nice to meet you !! 👋
 <br>
 <b>Welcome to my page!<br>
-I'm a `Korean Student`!</b>
+I'm `Kiukmaster`!</b>
 <br><br><br><br>
 
 ## 💻My tech stack! 💻
