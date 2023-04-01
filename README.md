@@ -9,10 +9,10 @@ I'm Kiukmaster !
 ## 💻My tech stack! 💻
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF00&color=FFCE00)
 <br><br><br><br>
 
 ## ✏️Studying Now✏️
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF00&color=FFCE00)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
