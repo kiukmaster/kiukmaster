@@ -10,11 +10,11 @@ I'm Kiuk !
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF00&color=FFCE00)
-사실 애매함...
+잘한다는 아니고 할줄은 안다 수준.
 <br><br><br><br>
 
 ## ✏️Studying Now✏️
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) <b style="text-align:center;">important<b> !! <br>
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) <b>배우는 중..<b> !! <br>
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) <br>
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)<br>
 
