@@ -14,7 +14,7 @@ I'm Kiuk !
 <br><br><br><br>
 
 ## ✏️Studying Now✏️
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) important !!
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) important !! <br>
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) <br>
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)<br>
 
