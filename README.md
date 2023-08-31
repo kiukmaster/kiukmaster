@@ -1,9 +1,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/124538821/227729747-ef2e235c-ee0e-47f8-ace8-cc713ab2c8df.jpg" width="200" height="200">
 
-# Hi! Nice to meet you !! 👋
+# Hi! 👋
 <br>
 Welcome to my page!<br>
-I'm Kiuk !
 <br><br><br><br>
 
 ## 💻My tech stack! 💻
