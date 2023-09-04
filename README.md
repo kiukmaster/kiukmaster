@@ -14,8 +14,6 @@ Welcome to my page!<br>
 
 ## ✏️Studying Now✏️
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) <br>
-!
-![Hits](https://hits.sh/github.com/kiukmaster.svg?label=%EB%B0%A9%EB%AC%B8%EA%B0%9D&color=9f9f9f)
 
 ## Project
 [MineCraft RendogServer Helper](https://rdhelper.site)
