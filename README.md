@@ -5,7 +5,7 @@ Welcome to my page!
 
 ## 💻Stack💻
 <br>
-### So Many
+<b>So Many</b>
 <br><br>
 
 ## Project
