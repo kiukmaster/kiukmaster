@@ -6,7 +6,7 @@ Welcome to my page!
 ## 💻Stack💻
 <br>
 <b>So Many</b>
-<br><br>
+<br>
 
 ## Project
 [MineCraft RendogServer Helper](https://rdhelper.site)
