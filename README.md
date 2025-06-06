@@ -1,2 +1,2 @@
 # Project
-[MineCraft RendogServer Helper](https://rendoghelper.vercel.app)
+[MapleStory - BuffChecker](https://maple-buff-checker.vercel.app/)
